@@ -10,7 +10,6 @@ var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=5
 var bgMusicControls = true; // Show UI music control
 
 
-
 // ===================== start =======================
 // animation start after 1000 miliseconds
 setTimeout(init, 1000);
@@ -415,3 +414,5 @@ function draw(){
 }
 
 draw();
+
+
